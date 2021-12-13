@@ -16,5 +16,5 @@ All labs were implemented with Java and compiled/run from IntelliJ's Java IDE.
 | Lab #9               | Trees & Binary Trees                              |
 | Lab #10-part 1       | Binary Search Trees, Heaps, & Priority Queues     |
 | Lab #10-part 2       | Sets & Hash Tables                                |
-| Lab #11              | Graphs: BFS, & DFS                                |
+| Lab #11              | Graphs: BFS & DFS                                |
 | Bonus Lab            | Sorting                                           |
